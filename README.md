@@ -23,7 +23,7 @@ This project showcases a solid grasp of **iOS fundamentals**, including **networ
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/FlickrImageGallery.git
-   cd FlickrImageGallery
+   https://github.com/akunte10/FlickrApp.git
+   cd FlickrApp
 
 ![Flickr](https://github.com/user-attachments/assets/214ae08b-13c5-40d0-a850-ebfa05d7b942)
